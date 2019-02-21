@@ -1,2 +1,2 @@
 # MLRacObject
-用于MVVM的基本语法
+用于rac在MVVM模式中的基本语法
